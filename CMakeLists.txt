@@ -12,7 +12,7 @@ find_package(PCL 1.8 REQUIRED)
 include_directories(
     ${PCL_INCLUDE_DIRS}
     ikd-Tree/ikd-Tree
-    octree2
+    ioctree
 )
 
 
